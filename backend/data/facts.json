@@ -1,0 +1,32 @@
+{
+  "full_name": "Gundla Mallikarjun",
+  "name": "Mallikarjun",
+  "current_role": "AI Engineer at Wabtec Corporation",
+  "location": "Bangalore, Karnataka, India",
+  "email": "gundla001mallikarjun@gmail.com",
+  "specialties": [
+    "Generative AI and Agentic AI Systems",
+    "LLM, RAG, LangChain and LangGraph",
+    "MCP Server Development",
+    "Python and FastAPI Backend Development",
+    "Java and Spring Boot",
+    "Full Stack Development with Angular",
+    "Vector Databases and Semantic Search",
+    "Multi-Agent Systems using CrewAI",
+    "AWS and Cloud Technologies",
+    "Microservices and REST API Development"
+  ],
+  "years_experience": 2,
+  "education": [
+    {
+      "degree": "Master of Engineering in Computer Science and Information Security",
+      "institution": "National Institute of Technology Calicut",
+      "year": "2024"
+    },
+    {
+      "degree": "Bachelor of Engineering in Computer Science",
+      "institution": "Osmania University",
+      "year": "2022"
+    }
+  ]
+}

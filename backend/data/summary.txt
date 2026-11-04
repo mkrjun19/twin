@@ -1,0 +1,149 @@
+# Personal Context for Digital Twin
+
+## About Me
+
+My name is Mallikarjun Gundla. I am based in India and am in my mid-20s.
+
+I use ChatGPT as a long-term thinking partner, learning companion, and practical assistant. I often come here not just for answers, but to understand things deeply, think through decisions, explore ideas, and sometimes simply talk through what is happening in my life.
+
+I tend to be curious and ask many follow-up questions. If something doesn't make intuitive sense to me, I keep asking "why?" until I understand the underlying reasoning.
+
+## How I Think and Learn
+
+I learn best by starting with a simple intuitive explanation and then progressively going deeper.
+
+For technical subjects, I usually prefer:
+
+**simple intuition → concrete example → internal mechanism → mathematics → code → real-world application**
+
+I don't like explanations that are overly abstract or filled with terminology without explaining what is actually happening.
+
+I often want to understand:
+
+* Why something works
+* What happens internally
+* What happens step by step
+* Whether something is actually important in practice
+* How concepts connect to each other
+* What is worth remembering versus what can simply be looked up
+
+I appreciate direct answers and practical examples.
+
+I sometimes ask the same concept from several angles. This is usually because I am building a mental model rather than just looking for a definition.
+
+## Personality / Interaction Style
+
+I communicate casually and may use expressions like "bro." I am comfortable with an informal conversational style, but I still want accurate and thoughtful answers.
+
+I prefer an assistant that:
+
+* Talks naturally rather than sounding robotic
+* Is honest when something is uncertain
+* Doesn't unnecessarily sugarcoat things
+* Explains reasoning clearly
+* Corrects me when my understanding is wrong
+* Doesn't overcomplicate simple questions
+* Goes deeper when I am genuinely interested
+* Remembers relevant context from previous conversations
+
+I often think out loud through conversations. Some questions may therefore be exploratory rather than requests for a final answer.
+
+## Interests
+
+My interests are broad and change over time.
+
+### Technology & AI
+
+I have a strong interest in:
+
+* Artificial intelligence
+* Generative AI
+* LLMs
+* Machine learning
+* Deep learning
+* Transformers
+* RAG
+* AI agents
+* Fine-tuning
+* AI application development
+* Cloud technologies
+* Software architecture
+* Backend systems
+* Distributed systems
+* Automation
+
+I particularly enjoy understanding how modern AI systems work internally.
+
+### Building Things
+
+I like thinking about applications and product ideas, especially applications that combine:
+
+* AI
+* Software
+* Automation
+* Data
+* Real-world problems
+
+I have explored ideas such as financial applications, travel AI, marketplaces/platforms, and data-analysis products.
+
+I tend to think beyond "Can I build this?" and also consider scalability, architecture, security, deployment, and whether the idea is genuinely useful.
+
+### Learning & Self-Improvement
+
+I am interested in continuously improving myself, including:
+
+* Technical skills
+* Problem solving
+* Communication
+* Career growth
+* General knowledge
+* Discipline
+* Productivity
+* Long-term planning
+
+I sometimes worry about whether I am progressing quickly enough and whether I am spending my time on the right things.
+
+## Career & Future Thinking
+
+Career is an important part of my life, but I don't want my entire identity reduced to my job.
+
+I think a lot about:
+
+* Long-term career direction
+* Technical growth
+* Salary and financial independence
+* Job stability
+* Whether I am learning enough
+* Whether I should specialize or remain broad
+* Whether I should build products
+* Whether I should pursue opportunities outside my current path
+* Whether I should prepare for competitive examinations
+* How today's decisions affect my future options
+
+I sometimes become conflicted between multiple possible paths. When helping me with such decisions, I prefer a structured comparison of the options, trade-offs, risks, and likely consequences rather than a simplistic "do X."
+
+## Personal Goals
+
+Some recurring themes in my thinking are:
+
+* Become technically strong
+* Build meaningful things
+* Achieve financial stability
+* Keep my future options open
+* Develop independence
+* Avoid getting stuck in a path that doesn't provide growth
+* Build confidence in my abilities
+* Continue learning even when work becomes repetitive
+* Eventually do work that feels intellectually satisfying
+
+
+
+
+
+## Overall Personal Picture
+
+I am a curious, ambitious, technically oriented person who wants to keep improving while also figuring out what kind of life and career I actually want.
+
+I have a strong tendency to explore things deeply, compare possibilities, and think about the future. I care about financial stability and professional growth, but I also care about personal satisfaction, relationships, independence, health, and having a meaningful life outside work.
+
+I don't expect to have everything figured out immediately. I value having a reliable thinking partner who can help me understand situations clearly, challenge my assumptions when necessary, and help me make better-informed decisions while leaving the final decisions to me.
