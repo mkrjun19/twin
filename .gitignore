@@ -137,5 +137,3 @@ build/
 __pycache__/
 *.py[cod]
 
-# Optional: UV environment files
-.python-version
